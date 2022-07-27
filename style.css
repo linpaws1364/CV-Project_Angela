@@ -1,0 +1,156 @@
+
+
+body{
+	color: #40514E ;
+	margin: 0px;
+	text-align: center;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 1.25rem;
+}
+
+.test{
+	font-size: 2.4rem;
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: ghostwhite;
+	font-weight: normal;
+}
+
+.sk{
+	margin-top: 1em;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 70px auto;
+	text-align: left;
+	line-height: 1.5;
+
+}
+
+.skill-img{
+	width: 25%;
+	margin-right: 30px;
+	float: left;
+}
+
+.skill2-img{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+h1{
+	margin: 20px auto 0 auto;
+	font-family: 'Edu VIC WA NT Beginner', cursive;
+	font-size: 5rem;
+	color: ghostwhite;
+	line-height: 2;
+}
+
+h2{
+	font-family: 'Righteous', cursive;
+	font-weight: normal;
+}
+
+h3{
+	font-family: 'Secular One', sans-serif;
+	color: #76BA99;
+}
+
+hr{
+	border: dotted grey 6px;
+	border-bottom: none;
+	width: 4%;
+}
+
+.top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 40px;
+}
+
+.bot-cloud{
+	position: absolute;
+	left: 250px;
+	bottom: 300px;
+}
+
+.top-container{
+	position: relative;
+	background-color: #76BA99;
+	padding-top: 100px;
+}
+
+.proi{
+	width: 20%;
+	height: auto;
+	border-radius: 50%;
+}
+
+.middle-container{
+	margin: 70px 0 ;
+}
+
+.copy{
+	color: white;
+	font-size: 0.9rem;
+	padding: 20px 0;
+}
+.footer-link{
+	color: white;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+
+.footer-link:visited{
+	color: grey;
+}
+
+.footer-link:hover{
+	color: yellowgreen;
+	text-decoration: underline;
+}
+.down-container{
+	background-color: #1a4d2e;
+	padding: 50px 0 20px;
+}
+
+.contact-mess{
+	width: 40%;
+	margin: 40px auto 60px;
+	font-weight: bold;
+}
+.intro{
+	width: 30%;
+	margin: auto;
+	padding-bottom: 20px;
+}
+
+.btn{
+	color: #76BA99;
+}
+
+.btn {
+  background: #5A8F7B;
+  background-image: -webkit-linear-gradient(top, #5A8F7B, #1A4D2E);
+  background-image: -moz-linear-gradient(top, #5A8F7B, #1A4D2E);
+  background-image: -ms-linear-gradient(top, #5A8F7B, #1A4D2E);
+  background-image: -o-linear-gradient(top, #5A8F7B, #1A4D2E);
+  background-image: linear-gradient(to bottom, #5A8F7B, #1A4D2E);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Righteous', cursive;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfc96;
+  background-image: -webkit-linear-gradient(top, #3cfc96, #1a4d2e);
+  background-image: -moz-linear-gradient(top, #3cfc96, #1a4d2e);
+  background-image: -ms-linear-gradient(top, #3cfc96, #1a4d2e);
+  background-image: -o-linear-gradient(top, #3cfc96, #1a4d2e);
+  background-image: linear-gradient(to bottom, #3cfc96, #1a4d2e);
+  text-decoration: none;
